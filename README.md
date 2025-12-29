@@ -70,38 +70,6 @@ I'm a **passionate Full-Stack Developer** with **2.5+ years** of hands-on experi
 
 ---
 
-## 🏆 Professional Experience
-
-### 💼 Full Stack Software Engineer (Intern)
-**[Nymble Leap](https://www.nymble.io/)** | May 2025 – Sep 2025
-- Architected Python servers with personal server hosting and Docker containerization
-- Developed Microsoft Word extension enhancing document processing capabilities
-- Enhanced technical proficiency in MERN Stack and system architecture
-- **Tech Stack**: Python, MERN, Docker, Server Management
-
-### 💼 Frontend Developer
-**[Codev Digital](https://codevdigital.com/)** | Apr 2025 – Jul 2025
-- Built modern, responsive web applications using React and Next.js
-- Implemented pixel-perfect UI designs with performance optimization
-- Collaborated with cross-functional teams on product development
-- **Tech Stack**: React, JavaScript, CSS, Tailwind CSS
-
-### 💼 Frontend Developer Intern
-**[CodeAlpha](https://codealpha.dev/)** | Jan 2025 – Feb 2025
-- Developed reusable React components following best practices
-- Participated in code reviews and contributed to team standards
-- **Tech Stack**: React, JavaScript, CSS
-
-### 💼 Jr. Full Stack Developer & SEO Expert
-**Freelance** | 2023 – Present
-- Delivered 15+ web applications for diverse clients across industries
-- Specialized in React, Next.js, and SEO optimization strategies
-- Built Android applications using Kotlin and Java
-- Average client satisfaction: 4.9/5.0
-- **Tech Stack**: MERN Stack, Next.js, Android, SEO Tools
-
----
-
 ## 🎯 Featured Projects
 
 ### 📚 NUML University Website
@@ -137,33 +105,6 @@ I'm a **passionate Full-Stack Developer** with **2.5+ years** of hands-on experi
 - **Tech**: React, Tailwind CSS
 
 ---
-
-## 🏅 Awards & Recognition
-
-### 🥇 1st Position - Web Development Competition
-**Riphah International University** (2025)
-- Secured first place competing against top developers from multiple prestigious institutions
-- Demonstrated advanced problem-solving and innovative design skills
-
-### 🥉 3rd Position - COSMOCON'25
-**COSMOCON'25 Tech Competition** (December 2025)
-- Collaborated with teammate Faizan Khan
-- Showcased technical excellence in competitive environment
-
-### 🎓 DevFest Lahore 2025
-**GDG Lahore & Google** (December 2025)
-- Attended latest training on AI, Google Cloud, Android, and Firebase
-- Networked with industry leaders and fellow developers
-
-### 📜 Open Source Contributor Award
-**Microsoft Learn Student Ambassadors**
-- Recognized for significant contributions to open-source projects
-
-### 🏢 20+ Competitions
-- Consistent participation demonstrating competitive spirit and technical growth
-
----
-
 ## 📚 Certifications & Learning
 
 ### Professional Certifications
@@ -187,72 +128,6 @@ I'm a **passionate Full-Stack Developer** with **2.5+ years** of hands-on experi
 
 ---
 
-## 💻 Skill Proficiency
-
-```
-Frontend Development ████████████████████ 95%
-JavaScript/TypeScript ████████████████░░░░ 92%
-React ███████████████████░ 95%
-Next.js ██████████████░░░░░░ 88%
-Tailwind CSS ███████████████████░ 92%
-Backend Development ████████████░░░░░░░░ 80%
-Node.js ████████████░░░░░░░░ 80%
-Python ███████████░░░░░░░░░ 75%
-Express.js ███████████░░░░░░░░░ 78%
-MongoDB ███████████░░░░░░░░░ 75%
-DevOps & Tools ████████████░░░░░░░░ 76%
-Git ████████████████░░░░ 88%
-Docker ███████████░░░░░░░░░ 65%
-Firebase ███████████░░░░░░░░░ 78%
-```
-
----
-
-## 🌟 Core Competencies
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎨 UI/UX Development
-- Responsive Design
-- Accessibility (A11Y)
-- Performance Optimization
-- Modern CSS Techniques
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Full-Stack Architecture
-- MERN Stack
-- Microservices Design
-- API Development
-- Database Design
-
-</td>
-<td align="center" width="33%">
-
-### 🔍 SEO & Optimization
-- Technical SEO
-- On-Page SEO
-- Performance Tuning
-- Web Vitals
-
-</td>
-</tr>
-</table>
-
----
-
-## 📖 Latest Blog & Learning
-
-- 📖 Actively learning **Database Design** and optimization techniques
-- 🔐 Expanding knowledge in **Cybersecurity** best practices
-- 🤖 Exploring **AI/ML** applications in web development
-- 🌐 Contributing to **open-source** projects and communities
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm always interested in:
@@ -268,18 +143,6 @@ I'm always interested in:
 [![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:abdullahniazi@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-171515?style=for-the-badge&logo=github)](https://github.com/mabdullahniazi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-abdullah-niazi-a94952226)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdullahniazi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahniazi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
