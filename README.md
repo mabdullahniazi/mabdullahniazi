@@ -15,12 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate Full-Stack Developer** with **2.5+ years** of hands-on experience building scalable web and mobile applications. Specializing in **React**, **Next.js**, and **MERN Stack**, I transform complex ideas into elegant, user-centric solutions. Beyond coding, I'm deeply committed to **SEO optimization** and have a proven track record of winning **5+ competitions**.
-
-- 🎯 **Focus**: Building performant, accessible, and beautiful web experiences
-- 💡 **Philosophy**: Clean code, continuous learning, and user-first design
-- 🌍 **Active in**: Google Developer Groups Lahore & Open Source Communities
-- 📚 **Currently Learning**: Databases, Cybersecurity, and AI/ML
+I'm a **passionate Full-Stack Developer** with **2.5+ years** of hands-on experience building scalable web and mobile applications. Specializing in **React**, **Next.js**, and **MERN Stack**, I transform complex ideas into elegant, user-centric solutions.
 
 ---
 
