@@ -1,463 +1,874 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Muhammad%20Abdullah%20Niazi&fontSize=40&fontAlignY=36&desc=Full-Stack%20Engineering%20%7C%20Automation%20%7C%20AI%20Systems%20%7C%20Cybersecurity&descAlignY=59&animation=fadeIn&fontColor=ffffff&color=0:0F172A,45:1D4ED8,100:06B6D4" width="100%" alt="Muhammad Abdullah Niazi">
+
+<a href="https://github.com/mabdullahniazi">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Python+%7C+Automation;AI+Agents+%7C+n8n+%7C+MCP;Cybersecurity+%7C+Application+Security;Ubuntu+%7C+NGINX+%7C+Production+Deployment;SEO+%7C+AEO+%7C+GEO" alt="Animated technology focus">
+</a>
+
+<br><br>
+
+<a href="https://github.com/mabdullahniazi">
+<img src="https://img.shields.io/badge/GitHub-mabdullahniazi-111827?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad Abdullah Niazi GitHub">
+</a>
+
+<a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abdullah Niazi LinkedIn">
+</a>
+
+<a href="https://abdullahniazi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Abdullah%20Niazi-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Abdullah Niazi Portfolio">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mabdullahniazi&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
+
+---
+
+<div align="center">
+
+## PROFILE / 01
+
+</div>
+
 # Muhammad Abdullah Niazi
 
 ### Full-Stack Developer · MERN · Python Automation · AI Systems · Cybersecurity
 
-<p>
-  <a href="https://github.com/mabdullahniazi">
-    <img src="https://img.shields.io/badge/GitHub-mabdullahniazi-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad Abdullah Niazi GitHub Profile">
-  </a>
-  <a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah%20Niazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abdullah Niazi LinkedIn Profile">
-  </a>
-  <a href="https://abdullahniazi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Niazi-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Abdullah Niazi Portfolio">
-  </a>
-</p>
+I'm a **Lahore-based full-stack developer with 4 years of experience** building and deploying web applications, automation systems, APIs, AI-enabled products, and client solutions.
 
-<p>
-  <a href="https://numl.vercel.app">
-    <img src="https://img.shields.io/badge/Featured%20Work-NUML%20University%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="NUML University Website">
-  </a>
-  <a href="mailto:abdullahniaziuni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Muhammad Abdullah Niazi">
-  </a>
-</p>
+My work combines:
 
-</div>
+`MERN`
 
----
+`Python`
 
-## Profile
+`Automation`
 
-I'm **Muhammad Abdullah Niazi**, a **Lahore-based Full-Stack Developer** with **4 years of experience** building and deploying web applications, automation systems, backend services, and client products.
+`AI Agents`
 
-My strongest engineering areas are:
+`MCP`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`n8n`
 
-### Full-Stack Engineering
+`Cybersecurity`
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="22" alt="React"> React <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="22" alt="Next.js"> Next.js <img src="https://cdn.simpleicons.org/typescript/3178C6" width="22" alt="TypeScript"> TypeScript <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="22" alt="Node.js"> Node.js <img src="https://cdn.simpleicons.org/express/ffffff" width="22" alt="Express.js"> Express.js <img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" alt="MongoDB"> MongoDB
+`Ubuntu`
 
-</td>
+`NGINX`
 
-<td width="50%" valign="top">
+`SEO / AEO / GEO`
 
-### Automation, AI & Security
+I focus on taking projects through the full engineering lifecycle:
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt="Python"> Python Automation <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="22" alt="n8n"> n8n Workflows <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="22" alt="WhatsApp"> WhatsApp Automation <img src="https://cdn.simpleicons.org/openai/ffffff" width="22" alt="AI"> AI Agent Workflows <img src="https://cdn.simpleicons.org/linux/FCC624" width="22" alt="Linux"> Ubuntu Server Deployment <img src="https://cdn.simpleicons.org/nginx/009639" width="22" alt="NGINX"> NGINX
-
-</td>
-</tr>
-</table>
-
-> **I build products end-to-end — from UI and APIs to automation, deployment, AI integrations, and security-aware engineering.**
-
----
-
-# Core Strengths
+**Idea → Interface → Backend → Automation → Infrastructure → Security → Deployment**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React">
-
-**React / Next.js**
-
-Product-grade frontend engineering
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" alt="Node.js">
-
-**MERN Stack**
-
-Complete web applications
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python">
-
-**Python Automation**
-
-APIs, scraping & workflows
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" alt="n8n">
-
-**AI Automation**
-
-n8n, MCP & agent workflows
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/owasp/ffffff" width="42" alt="Security">
-
-**Cybersecurity**
-
-Security-aware application engineering
-
-</td>
-</tr>
-</table>
+| Full-Stack |     Automation     | AI Systems |  Cybersecurity | Infrastructure |
+| :--------: | :----------------: | :--------: | :------------: | :------------: |
+|    React   |       Python       |   Gemini   |     AppSec     |     Ubuntu     |
+|   Next.js  |      REST APIs     |  AI Agents | Authentication |      NGINX     |
+|   Node.js  |    Web Scraping    |     MCP    |  Authorization |     Docker     |
+|   MongoDB  | Document Workflows |     n8n    |     Privacy    |   Deployment   |
 
 </div>
 
 ---
 
-# Engineering Stack
+<div align="center">
 
-## Frontend
+## THE CORE / 02
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:6366F1,100:06B6D4" width="92%" alt="Animated divider">
+
+</div>
+
+# Engineering Core
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="44" alt="React">
+
+### PRODUCT ENGINEERING
+
+React
+Next.js
+Node.js
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="44" alt="Python">
+
+### AUTOMATION
+
+Python
+REST APIs
+Scraping
+Document workflows
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" alt="n8n">
+
+### AI SYSTEMS
+
+Gemini
+AI Agents
+MCP
+n8n
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="44" alt="OWASP">
+
+### SECURITY
+
+Cybersecurity
+Application Security
+Auth / RBAC
+Privacy
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**4 YEARS EXPERIENCE**
+
+  ·  
+
+**10+ CLIENT DEPLOYMENTS**
+
+  ·  
+
+**20+ COMPETITIONS / EVENTS**
+
+  ·  
+
+**25 LISTED CREDENTIALS**
+
+  ·  
+
+**200+ LEARNING HOURS**
+
+</div>
+
+---
+
+<div align="center">
+
+## SYSTEM / 03
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Automation+%E2%86%92+Infrastructure+%E2%86%92+Security" alt="Animated engineering flow">
+
+</div>
+
+# How I Engineer Products
+
+I don't treat the stack as a collection of unrelated technologies.
+
+I think in connected systems:
+
+```text
+                         PRODUCT / IDEA
+                                |
+                                v
+                    +----------------------+
+                    |      UX / UI         |
+                    | React / Next / TS    |
+                    +----------+-----------+
+                               |
+                               v
+                    +----------------------+
+                    |     APPLICATION      |
+                    | Node / Express / Py  |
+                    +----------+-----------+
+                               |
+                 +-------------+-------------+
+                 |                           |
+                 v                           v
+        +----------------+          +----------------+
+        |   DATABASE     |          |   REAL-TIME    |
+        | MongoDB / SQL  |          | Socket.IO      |
+        +--------+-------+          +--------+-------+
+                 |                           |
+                 +-------------+-------------+
+                               |
+                               v
+                  +--------------------------+
+                  |   AI / AUTOMATION        |
+                  | Gemini / n8n / MCP       |
+                  +------------+-------------+
+                               |
+                               v
+                  +--------------------------+
+                  |    INFRASTRUCTURE        |
+                  | Ubuntu / NGINX / Docker   |
+                  +------------+-------------+
+                               |
+                               v
+                  +--------------------------+
+                  |   SECURITY / PRODUCTION  |
+                  +--------------------------+
+```
+
+### Product Engineering Loop
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 01
+
+**UX / UI**
+
+React
+Next.js
+TypeScript
+
+</td>
+
+<td align="center" width="20%">
+
+### 02
+
+**Application**
+
+Node
+Express
+Python
+
+</td>
+
+<td align="center" width="20%">
+
+### 03
+
+**Automation**
+
+n8n
+MCP
+AI Agents
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+**Infrastructure**
+
+Ubuntu
+NGINX
+Docker
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+**Security**
+
+Auth
+Validation
+AppSec
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## TECHNOLOGY / 04
+
+</div>
+
+# Technology System
+
+### Frontend
 
 <p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" alt="React">
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="30" alt="Next.js">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" alt="TypeScript">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" alt="Tailwind CSS">
-  <img src="https://cdn.simpleicons.org/vite/646CFF" width="30" alt="Vite">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="29" alt="React">
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="29" alt="Next.js">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="29" alt="TypeScript">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="29" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="29" alt="Tailwind CSS">
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="29" alt="Vite">
 </p>
 
 `React` · `React 19` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Vite` · `HTML` · `CSS`
 
-## Backend & Data
+### Backend
 
 <p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" alt="Node.js">
-  <img src="https://cdn.simpleicons.org/express/ffffff" width="30" alt="Express">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" alt="MongoDB">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" alt="MySQL">
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="29" alt="Node.js">
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="29" alt="Express">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="29" alt="Python">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="29" alt="MongoDB">
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="29" alt="MySQL">
 </p>
 
 `Node.js` · `Express.js` · `Python` · `MongoDB` · `Mongoose` · `MySQL` · `SQL` · `REST APIs`
 
-## AI & Automation
+### AI + Automation
 
 <p>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="30" alt="Google Gemini">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="30" alt="n8n">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" alt="WhatsApp">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="29" alt="Google Gemini">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="29" alt="n8n">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="29" alt="WhatsApp">
 </p>
 
-`Google Gemini API` · `n8n` · `Model Context Protocol (MCP)` · `AI Agent Workflows` · `WhatsApp Business Automation` · `Python Automation` · `Web Scraping` · `Document Automation`
+`Google Gemini API` · `n8n` · `MCP` · `AI Agents` · `WhatsApp Automation` · `Python Automation` · `Web Scraping` · `Document Automation`
 
-## Systems, Security & DevOps
+### Real-Time
+
+`Socket.IO` · `WebSockets` · `WebRTC Signalling` · `Notifications` · `Live Chat`
+
+### Infrastructure
 
 <p>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" alt="Linux">
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="30" alt="NGINX">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" alt="Docker">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="Git">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" alt="GitHub">
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="29" alt="Linux">
+<img src="https://cdn.simpleicons.org/nginx/009639" width="29" alt="NGINX">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="29" alt="Docker">
+<img src="https://cdn.simpleicons.org/git/F05032" width="29" alt="Git">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="29" alt="GitHub">
 </p>
 
-`Ubuntu` · `NGINX` · `Docker` · `Git` · `GitHub` · `JWT` · `bcrypt` · `Role-Based Access` · `Input Validation` · `Application Security`
+`Ubuntu` · `NGINX` · `Docker` · `Git` · `GitHub` · `Vercel` · `Private Server Deployment`
 
-## SEO & Growth
+### Security
 
-`SEO` · `AEO` · `GEO` · `Technical SEO` · `Performance` · `Search Visibility` · `Content Structure`
+`Authentication` · `Authorization` · `JWT` · `bcrypt` · `Access Control` · `Input Validation` · `API Security` · `Privacy Analysis`
 
 ---
 
+<div align="center">
+
+## SELECTED WORK / 05
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Real+Products.;Real+Systems.;Real+Engineering." alt="Animated selected work heading">
+
+</div>
+
 # Selected Projects
+
+> A focused portfolio of systems that demonstrate meaningful product, engineering, automation, AI, infrastructure, and security depth.
+
+---
 
 ## 01 — NUML University Website & Student Portal
 
+<div align="center">
+
 <a href="https://numl.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="NUML University Website">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Open NUML project">
 </a>
 
-A full university web experience developed for **NUML Lahore at the request of the Regional Director**.
+</div>
 
-### Scope
+A university platform developed for **NUML Lahore at the request of the Regional Director**.
 
-* University information architecture
-* Student portal experience
-* Academic and course information
-* Event management
-* Administrative dashboards
-* Responsive interface
-* SEO-focused implementation
-* Production deployment
+### System Architecture
+
+```text
+                    NUML DIGITAL EXPERIENCE
+                             |
+              +--------------+--------------+
+              |              |              |
+              v              v              v
+       PUBLIC CONTENT     STUDENT         ADMIN
+                          EXPERIENCE     DASHBOARDS
+              |              |              |
+              +--------------+--------------+
+                             |
+                             v
+                  REACT / NEXT.JS PLATFORM
+                             |
+                             v
+                      RESPONSIVE UI
+                             |
+                             v
+                   PRODUCTION DEPLOYMENT
+```
+
+### Includes
+
+`Student-facing portal`
+
+`Academic information`
+
+`Course information`
+
+`Admissions content`
+
+`Event management`
+
+`Administrative dashboards`
+
+`Responsive interface`
+
+`SEO-focused implementation`
+
+`Production deployment`
 
 ### Stack
 
-`React` `Next.js` `Tailwind CSS` `Vercel`
+`React` · `Next.js` · `Tailwind CSS` · `Vercel`
+
+### Timeline
+
+**November 2025 → February 2026**
 
 ### Recognition
 
-The project was followed by a **High Achievers Certificate from NUML University** recognizing technical skills.
+**High Achievers Certificate — NUML University**
 
-**Timeline:** November 2025 – February 2026
+Recognized for technical skills following work on the university website.
 
 ---
 
 ## 02 — JudgmentCalc
 
-<a href="https://github.com/mabdullahniazi">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="JudgmentCalc Source Code">
-</a>
+A full-stack **financial / legal SaaS platform** focused on calculations, payment scenarios, and subscription workflows.
 
-A full-stack **financial/legal SaaS platform** focused on financial analysis, calculations, payment scenarios, and subscription-based access.
+### Architecture
 
-### Core capabilities
+```text
+                    REACT / TYPESCRIPT
+                            |
+                            v
+                     NODE / EXPRESS
+                            |
+          +-----------------+-----------------+
+          |                 |                 |
+          v                 v                 v
+     CALCULATION        PAYMENT         SUBSCRIPTION
+       ENGINE           SCENARIOS           LOGIC
+          |                 |                 |
+          +-----------------+-----------------+
+                            |
+                            v
+                         MONGODB
+                            |
+                            v
+                          STRIPE
+```
 
-* Real-time interest calculations
-* Financial scenario modelling
-* Payment workflows
-* Subscription management
-* Stripe integration
-* Full-stack SaaS architecture
+### Core
+
+`Real-Time Calculations`
+
+`Payment Scenarios`
+
+`Subscriptions`
+
+`Stripe`
+
+`Full-Stack Application`
 
 ### Stack
 
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Stripe`
+`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Stripe`
 
 ---
 
 ## 03 — CV Maker
 
-<a href="https://github.com/mabdullahniazi">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CV Maker Source Code">
-</a>
+An advanced resume builder focused on **professional document generation, reusable templates, persistence, and export**.
 
-A professional resume-building platform designed around fast CV generation and export.
+### Product Architecture
 
-### Features
+```text
+                    USER INFORMATION
+                           |
+                           v
+                    TEMPLATE ENGINE
+                           |
+                           v
+                      LIVE CV
+                           |
+               +-----------+-----------+
+               |                       |
+               v                       v
+        LOCAL PERSISTENCE        CLIENT-SIDE STATE
+               |                       |
+               +-----------+-----------+
+                           |
+                           v
+                       PDF EXPORT
+```
 
-* Custom CV templates
-* Client-side document generation
-* PDF export
-* Local persistence
-* Responsive interface
-* Reusable UI architecture
+### Core Features
+
+`Custom Templates`
+
+`Resume Generation`
+
+`Client-Side Export`
+
+`PDF Generation`
+
+`Local Persistence`
+
+`Responsive UI`
 
 ### Stack
 
-`React` `TypeScript` `Tailwind CSS` `PDF Export` `Local Storage`
+`React` · `TypeScript` · `Tailwind CSS` · `Local Storage` · `PDF Export`
 
 ---
 
-## 04 — Eyrie Digital Agency & Growth Platform
+## 04 — Eyrie Digital Agency & Growth Portal
 
-<a href="https://github.com/mabdullahniazi">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Eyrie Digital Agency">
-</a>
+A digital-agency ecosystem combining **software delivery, AI automation, domain setup, SEO, AEO, and GEO**.
 
-A digital-agency ecosystem combining product development, automation, custom domains, and growth engineering.
+### Delivery Architecture
+
+```text
+                         CLIENT
+                           |
+                           v
+                    DIGITAL PRODUCT
+                           |
+          +----------------+----------------+
+          |                                 |
+          v                                 v
+     DEVELOPMENT                       AI AUTOMATION
+          |                                 |
+          |                                 v
+          |                             WORKFLOWS
+          |                                 |
+          +----------------+----------------+
+                           |
+                           v
+                    SEARCH GROWTH
+                           |
+                  +--------+--------+
+                  |        |        |
+                  v        v        v
+                 SEO      AEO      GEO
+                  |        |        |
+                  +--------+--------+
+                           |
+                           v
+                    DOMAIN + DEPLOYMENT
+```
 
 ### Focus
 
-`MERN Stack` · `AI Automation` · `SEO` · `AEO` · `GEO` · `Domain Setup`
+`MERN`
 
-### Engineering direction
+`AI Automation`
 
-* Full-stack product development
-* Automated agency workflows
-* Search-focused architecture
-* AI-assisted operations
-* Client-oriented delivery systems
+`Custom Domain Setup`
+
+`SEO`
+
+`AEO`
+
+`GEO`
 
 ---
 
 ## 05 — Enterprise WhatsApp AI & MCP Automation Suite
 
-<a href="https://github.com/mabdullahniazi">
-<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp AI Automation Suite">
-</a>
+An enterprise-oriented automation architecture combining **n8n, MCP, AI agents, Meta WhatsApp Business API, CRM workflows, and calendar systems**.
 
-An automation architecture combining **n8n, MCP, AI agents, and the Meta WhatsApp Business API**.
-
-### Architecture
+### Agentic Workflow
 
 ```text
-Customer
-   |
-   v
-WhatsApp Business API
-   |
-   v
-Automation Layer
-   |
-   v
-n8n
-   |
-   +---- AI / MCP Agents
-   |
-   +---- CRM Workflows
-   |
-   +---- Calendar Scheduling
-   |
-   +---- Automated Customer Responses
+                        CUSTOMER
+                           |
+                           v
+                WHATSAPP BUSINESS API
+                           |
+                           v
+                     +-----------+
+                     |    n8n    |
+                     | WORKFLOW  |
+                     | ENGINE    |
+                     +-----+-----+
+                           |
+                  +--------+--------+
+                  |                 |
+                  v                 v
+              AI AGENTS           RULES
+                  |
+                  v
+                 MCP
+                  |
+        +---------+---------+---------+
+        |                   |         |
+        v                   v         v
+       CRM               CALENDAR    APIs
+        |                   |         |
+        +-------------------+---------+
+                            |
+                            v
+                   AUTOMATED OUTCOME
 ```
 
-### Key capabilities
+### Capabilities
 
-* Multi-agent workflows
-* WhatsApp customer interaction
-* Calendar scheduling
-* CRM automation
-* Business workflow orchestration
-* AI-assisted decision making
-* MCP-based tool integration
+`Multi-Agent Workflows`
+
+`WhatsApp Customer Interaction`
+
+`Calendar Scheduling`
+
+`CRM Workflows`
+
+`Automated Business Processes`
+
+`MCP Tool Integration`
+
+`AI-Assisted Workflow Execution`
 
 ### Stack
 
-`n8n` `MCP` `Meta Cloud API` `Python` `Node.js`
+`n8n` · `MCP` · `Meta Cloud API` · `Python` · `Node.js`
 
 ---
 
 ## 06 — LoopVerse / SkillSphere
 
-<a href="https://github.com/mabdullahniazi/loopverse">
-<img src="https://img.shields.io/badge/Repository-LoopVerse-181717?style=for-the-badge&logo=github&logoColor=white" alt="LoopVerse Repository">
-</a>
-
 A full-stack **real-time microlearning and mentorship platform**.
 
-### Architecture
+<a href="https://github.com/mabdullahniazi/loopverse">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="LoopVerse source code">
+</a>
+
+### Full Platform Architecture
 
 ```text
-React + TypeScript
-        |
-        +---- Zustand / Forms / Routing
-        |
-        v
-REST API + WebSockets
-        |
-        v
-Node.js + Express
-        |
-        +---- Authentication
-        +---- Sessions
-        +---- Bookings
-        +---- Notifications
-        +---- Analytics
-        +---- AI Services
-        |
-        v
-MongoDB / Mongoose
+                         LEARNER / MENTOR / ADMIN
+                                      |
+                                      v
+                         +------------------------+
+                         |    REACT + TYPESCRIPT  |
+                         |      UI / UX LAYER     |
+                         +-----------+------------+
+                                     |
+                    +----------------+----------------+
+                    |                                 |
+                    v                                 v
+             +-------------+                    +-------------+
+             | REST APIs   |                    | WebSockets  |
+             | Node/Express|                    | Socket.IO   |
+             +------+------+                    +------+------+
+                    |                                  |
+                    v                                  v
+             +-------------+                    +-------------+
+             | MongoDB     |                    | Real-Time   |
+             | Mongoose    |                    | Chat / Call |
+             +------+------+                    | WebRTC      |
+                    |                         +-------------+
+          +---------+---------+
+          |         |         |
+          v         v         v
+        AUTH     SESSIONS     AI
+         |          |         |
+       JWT       Bookings   Gemini
+      bcrypt     Schedule   Matching
+                            Learning Paths
+                            Session Summaries
 ```
 
-### Features
+### System Capabilities
 
-* Learner / mentor / admin roles
-* JWT authentication
-* Password hashing
-* Mentor discovery
-* Booking and scheduling
-* Time-zone-aware sessions
-* Mentor availability
-* Notifications
-* Analytics
-* File uploads
-* Real-time chat
-* WebSockets
-* WebRTC signalling
-* AI-generated session summaries
-* AI mentor recommendations
-* AI learning paths
-* AI mentor matching
+`Learner / Mentor / Admin`
+
+`JWT Authentication`
+
+`Mentor Discovery`
+
+`Booking & Scheduling`
+
+`Time-Zone Handling`
+
+`Mentor Availability`
+
+`Notifications`
+
+`Analytics`
+
+`File Uploads`
+
+`Real-Time Chat`
+
+`Socket.IO`
+
+`WebRTC Signalling`
+
+`Gemini AI`
+
+`AI Recommendations`
+
+`AI Learning Paths`
+
+`AI Session Summaries`
 
 ### Stack
 
-`React 19` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.IO` `WebRTC` `Gemini`
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `Zustand` · `React Router` · `Node.js` · `Express` · `MongoDB` · `Socket.IO` · `Gemini`
 
 ---
 
 ## 07 — TermsLens
 
+An AI-powered Chrome extension that turns complex **Terms of Service and Privacy Policies** into structured analysis.
+
 <a href="https://github.com/mabdullahniazi/kiro">
-<img src="https://img.shields.io/badge/Repository-TermsLens-181717?style=for-the-badge&logo=github&logoColor=white" alt="TermsLens Repository">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="TermsLens source code">
 </a>
 
-An AI-powered Chrome extension that converts complex Terms of Service and Privacy Policies into structured, readable analysis.
-
-### Pipeline
+### Security Analysis Pipeline
 
 ```text
-Policy Detection
-      |
-      v
-Document Fetching
-      |
-      v
-Text Extraction
-      |
-      v
-Gemini Analysis
-      |
-      v
-Structured JSON
-      |
-      v
-Rule-Based Privacy Scoring
-      |
-      v
-Readable Results
+                     CURRENT WEB PAGE
+                            |
+                            v
+                    POLICY DETECTION
+                            |
+                            v
+                    POLICY FETCHING
+                            |
+                            v
+                    TEXT EXTRACTION
+                            |
+                            v
+                     GEMINI ANALYSIS
+                            |
+                            v
+                  STRUCTURED JSON OUTPUT
+                            |
+                            v
+                    OUTPUT VALIDATION
+                            |
+                            v
+                  RULE-BASED SCORING
+                            |
+                            v
+                  PRIVACY / RISK REPORT
 ```
 
-### Engineering details
+### Technical Depth
 
-* Chrome Manifest V3
-* Service-worker architecture
-* Policy-link detection
-* Regex-based HTML extraction
-* Parallel fetching
-* Request timeouts
-* Retry handling
-* Gemini 2.5 integration
-* Structured response validation
-* Deterministic privacy scoring
-* AI + rule-based scoring
-* Red-flag categorization
-* User-rights extraction
-* Debug/progress interface
+`Chrome Manifest V3`
+
+`Service Worker Architecture`
+
+`Policy-Link Discovery`
+
+`Regex-Based HTML Extraction`
+
+`Parallel Fetching`
+
+`Timeout Handling`
+
+`Retry Handling`
+
+`Gemini 2.5`
+
+`Structured Output Validation`
+
+`Rule-Based Privacy Scoring`
+
+`AI + Deterministic Score Blend`
+
+`Red-Flag Classification`
+
+`User-Rights Extraction`
+
+`Debugging / Progress Interface`
+
+
 
 ---
 
-# Experience
+<div align="center">
+
+## EXPERIENCE / 06
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Production+Work;Client+Delivery;Automation;Infrastructure;Continuous+Learning" alt="Animated experience heading">
+
+</div>
+
+# Professional Experience
+
+```text
+2023 ─────────────── Freelance / SEO
+       |
+2024 ─────────────── DPS IT Internship
+       |
+2025 ├───────────── Codev Digital
+     |
+     └───────────── Nymble Leap
+       |
+2026 ─────────────── NUML Project + Recognition
+       |
+       v
+AI + Automation + Cybersecurity
+```
 
 ## Full-Stack Software Engineer Intern — Automation
 
 ### Nymble Leap
 
-**May 2025 – September 2025**
+**May 2025 — September 2025**
 
-Worked across backend engineering, automation, deployment, and frontend development.
+Worked across **Python backend engineering, automation, infrastructure, and frontend development**.
 
-### Work
+### Engineering Surface
 
-* Built and maintained Python REST APIs
-* Deployed applications on private Ubuntu servers
-* Configured NGINX reverse proxies
-* Developed Microsoft Word extensions for document automation
-* Integrated MySQL-backed form services
-* Connected backend upload pipelines
-* Built responsive React interfaces
-* Implemented end-to-end web scraping workflows
-* Worked with production systems
+```text
+PYTHON REST APIs
+       |
+       +── Backend Services
+       |
+       +── MySQL-backed Forms
+       |
+       +── Upload Pipelines
+       |
+       +── Document Automation
+       |
+       +── Web Scraping
+
+DEPLOYMENT
+       |
+       +── Private Ubuntu Servers
+       |
+       +── NGINX Reverse Proxy
+
+FRONTEND
+       |
+       +── Responsive React Interfaces
+```
 
 ### Technologies
 
-`Python` `React` `MySQL` `Ubuntu` `NGINX` `Web Scraping` `MS Word Extensions`
+`Python` · `React` · `MySQL` · `Ubuntu` · `NGINX` · `Web Scraping` · `MS Word Extensions`
 
 ---
 
@@ -465,22 +876,28 @@ Worked across backend engineering, automation, deployment, and frontend developm
 
 ### Codev Digital
 
-**April 2025 – July 2025**
+**April 2025 — July 2025**
 
-Delivered production-ready frontend applications for real clients.
+Built and maintained production-facing React applications for real clients.
+
+### Focus
+
+`React`
+
+`Tailwind CSS`
+
+`JavaScript`
+
+`REST APIs`
 
 ### Work
 
-* Built React applications
-* Implemented Tailwind CSS interfaces
-* Maintained existing codebases
-* Extended application functionality
-* Integrated REST APIs
-* Worked on production UI improvements
-
-### Technologies
-
-`React` `JavaScript` `Tailwind CSS` `REST APIs`
+* React application development
+* Tailwind CSS interfaces
+* Existing codebase maintenance
+* Feature extensions
+* REST API integration
+* Production UI implementation
 
 ---
 
@@ -490,16 +907,19 @@ Delivered production-ready frontend applications for real clients.
 
 **2024**
 
-Worked across frontend and backend development.
+Worked across full-stack development and software-development processes.
 
-### Work
+### Focus
 
-* Improved UI/UX
-* Built backend endpoints
-* Participated in code reviews
-* Participated in sprint planning
-* Wrote unit tests
-* Worked across complete application features
+`UI/UX`
+
+`Backend Endpoints`
+
+`Code Reviews`
+
+`Sprint Planning`
+
+`Unit Testing`
 
 ---
 
@@ -507,45 +927,81 @@ Worked across frontend and backend development.
 
 ### Freelance
 
-**2023 – Present**
+**2023 — Present**
 
-End-to-end client development across web and mobile projects.
+End-to-end software development across web and mobile client projects.
 
-### Work
+### Delivery
 
-* Built web applications
-* Built Android applications
-* Developed React / Next.js products
-* Built Node.js backends
-* Implemented SEO strategies
-* Managed deployments
-* Delivered **10+ client projects end-to-end**
+**10+ client projects delivered end-to-end**
 
-### Technologies
+### Focus
 
-`React` `Next.js` `Node.js` `Android` `Kotlin` `SEO` `Deployment`
+`React`
+
+`Next.js`
+
+`Node.js`
+
+`Android`
+
+`Kotlin`
+
+`SEO`
+
+`End-to-End Deployment`
 
 ---
+
+<div align="center">
+
+## CYBERSECURITY / 07
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:2563EB,100:4F46E5" width="92%" alt="Security divider">
+
+</div>
 
 # Cybersecurity
 
 Cybersecurity is a major part of my current technical direction.
 
-## Security Credentials
+<div align="center">
 
-### Certified Ethical Hacker — Grade A+
+<table>
+<tr>
 
-**NAVTTC · TECphantom IT Solutions**
+<td width="50%" align="center">
 
-National-level CEH-related certification with an **A+ grade**.
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="44" alt="Kali Linux">
 
-### Google Cybersecurity Professional Certificate
+### Certified Ethical Hacker
 
-**Google / Coursera**
+**Grade A+**
 
----
+NAVTTC
+TECphantom IT Solutions
 
-## Security Areas
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://cdn.simpleicons.org/google/4285F4" width="44" alt="Google">
+
+### Google Cybersecurity
+
+**Professional Certificate**
+
+Google
+Coursera
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### Security Areas
 
 `Application Security`
 
@@ -555,89 +1011,134 @@ National-level CEH-related certification with an **A+ grade**.
 
 `JWT`
 
-`Role-Based Access Control`
+`Access Control`
 
 `Input Validation`
 
 `Privacy Analysis`
 
-`Web Security`
-
 `API Security`
+
+`Web Security`
 
 `Security Testing`
 
 `Security Awareness`
 
----
-
-## Security Mindset
-
-I'm particularly interested in the security gaps that appear in rapidly built applications, including:
-
-* Missing authentication controls
-* Weak authorization
-* Poor input validation
-* Missing rate limiting
-* Unsafe secret/API-key handling
-* Weak account verification
-* Privacy problems
-* Insecure data handling
-* AI-generated application vulnerabilities
-
-I believe security should be part of **architecture and implementation**, not a final checkbox.
-
----
-
-# AI & Automation
-
-My current development direction increasingly combines software engineering with automation and AI.
-
-### Current areas
+### Security Architecture
 
 ```text
-AI Applications
-      |
-      +---- Gemini API
-      |
-      +---- AI Agent Workflows
-      |
-      +---- MCP
-      |
-      +---- n8n
-      |
-      +---- WhatsApp Automation
-      |
-      +---- CRM Automation
-      |
-      +---- Calendar Automation
-      |
-      +---- Business Process Automation
+                        APPLICATION
+                             |
+             +---------------+---------------+
+             |               |               |
+             v               v               v
+       AUTHENTICATION   AUTHORIZATION   VALIDATION
+             |               |               |
+             +---------------+---------------+
+                             |
+                             v
+                       API / DATA
+                             |
+             +---------------+---------------+
+             |               |               |
+             v               v               v
+         SECRETS          PRIVACY          FAILURE
+             |               |               |
+             +---------------+---------------+
+                             |
+                             v
+                    APPLICATION SECURITY
 ```
-
-### Practical focus
-
-* AI-assisted development
-* AI application features
-* Agentic workflows
-* Workflow orchestration
-* MCP integrations
-* Business automation
-* Document automation
-* Web scraping
-* API automation
 
 ---
 
-# SEO, AEO & GEO
+<div align="center">
 
-I also work on the **search and discoverability side of digital products**.
+## AI + AUTOMATION / 08
 
-### Areas
+</div>
+
+# AI Engineering & Automation
+
+My development direction increasingly combines **software engineering with automation and AI systems**.
+
+### Automation Operating Model
+
+```text
+                     BUSINESS PROBLEM
+                            |
+                            v
+                     WORKFLOW DESIGN
+                            |
+                            v
+                    AUTOMATION LAYER
+                            |
+                +-----------+-----------+
+                |                       |
+                v                       v
+               n8n                    Python
+                |                       |
+                +-----------+-----------+
+                            |
+                            v
+                        MCP / TOOLS
+                            |
+                            v
+                         AI AGENT
+                            |
+                +-----------+-----------+
+                |           |           |
+                v           v           v
+               CRM       Calendar      APIs
+                |           |           |
+                +-----------+-----------+
+                            |
+                            v
+                    AUTOMATED OUTCOME
+```
+
+### Current Areas
+
+`Google Gemini API`
+
+`AI Agents`
+
+`MCP`
+
+`n8n`
+
+`WhatsApp Business API`
+
+`CRM Automation`
+
+`Calendar Automation`
+
+`Document Automation`
+
+`Python Automation`
+
+`Web Scraping`
+
+`Business Workflow Orchestration`
+
+---
+
+<div align="center">
+
+## SEARCH + GROWTH / 09
+
+</div>
+
+# SEO · AEO · GEO
+
+Beyond application development, I also work on **digital discoverability and search-oriented engineering**.
+
+### Focus
 
 `Technical SEO`
 
-`Search Architecture`
+`SEO Architecture`
 
 `AEO`
 
@@ -651,45 +1152,97 @@ I also work on the **search and discoverability side of digital products**.
 
 `Search Visibility`
 
-I aim to build products that are not only technically functional, but also **discoverable and understandable by search engines and users**.
+The goal is to make a product both:
+
+**Technically Strong + Discoverable**
 
 ---
-
-# Awards & Recognition
 
 <div align="center">
 
-| Recognition                        | Organization                        | Date          |
-| :--------------------------------- | :---------------------------------- | :------------ |
-| **1st Position — Web Development** | Riphah International University     | 2025          |
-| **High Achievers Certificate**     | NUML University                     | January 2026  |
-| **3rd Position — COSMOCON'25**     | COSMOCON'25                         | December 2025 |
-| **Open Source Contributor Award**  | Microsoft Learn Student Ambassadors | 2024          |
-| **DevFest Lahore 2025**            | GDG Lahore / Google                 | December 2025 |
+## RECOGNITION / 10
 
 </div>
 
-### High Achievers Certificate
+# Awards & Recognition
 
-The NUML recognition followed my work on the university website, developed with teammate **Waleed Ahmed** within approximately three months.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 01
+
+## 1st Position
+
+**Web Development Competition**
+
+Riphah International University
+
+Worked with **Muhammad Aswad** and secured first position.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02
+
+## High Achievers
+
+**Technical Skills**
+
+NUML University
+
+**January 2026**
+
+Recognition following technical work on the NUML website.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03
+
+## 3rd Position
+
+**COSMOCON'25**
+
+**December 2025**
+
+Secured third position with teammate **Faizan Khan**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04
+
+## Open Source Contributor
+
+**Microsoft Learn Student Ambassadors**
+
+**2024**
+
+Recognized for open-source contribution and community collaboration.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Community & Learning
+<div align="center">
 
-## Google Developer Groups Lahore
+## CERTIFICATIONS / 11
 
-Active participation in the Lahore developer community.
+</div>
 
-### DevFest Lahore 2025
-
-Exposure to modern topics including:
-
-`AI` · `Google Cloud` · `Android` · `Firebase`
-
----
-
-# Certifications
+# Certifications & Learning
 
 Selected publicly listed credentials:
 
@@ -705,113 +1258,143 @@ Selected publicly listed credentials:
 
 ---
 
-# Engineering Footprint
-
-Instead of relying on a third-party contribution graph, here's a stable summary of what I actually build:
-
 <div align="center">
 
-| Domain             | Demonstrated Work                                                  |
-| :----------------- | :----------------------------------------------------------------- |
-| **Frontend**       | React, Next.js, TypeScript, Tailwind, responsive UI                |
-| **Backend**        | Node.js, Express, Python REST APIs, MongoDB, MySQL                 |
-| **Automation**     | Python automation, web scraping, n8n, MCP                          |
-| **AI**             | Gemini, AI agents, recommendations, summaries, workflow automation |
-| **Real-Time**      | Socket.IO, WebSockets, WebRTC signalling                           |
-| **Infrastructure** | Ubuntu, NGINX, Docker, Vercel, private deployments                 |
-| **Security**       | CEH, Google Cybersecurity, authentication, access control          |
-| **Growth**         | SEO, AEO, GEO, performance                                         |
-| **Delivery**       | 10+ client deployments, production applications                    |
+## GITHUB / 12
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:6366F1,100:06B6D4" width="92%" alt="Animated GitHub divider">
 
 </div>
 
----
+# GitHub Engineering Activity
 
-# Public Work
+The contribution-calendar dependency has been replaced with **GitHub Stats Extended**, using the configuration you provided.
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=mabdullahniazi&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&theme=light_github" width="96%" alt="Muhammad Abdullah Niazi GitHub Stats Extended">
+
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/mabdullahniazi">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+<img src="https://img.shields.io/badge/GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
 </a>
 
 <a href="https://github.com/mabdullahniazi?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories">
-</a>
-
-<a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Professional Profile">
-</a>
-
-<a href="https://abdullahniazi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Full--Stack%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories">
 </a>
 
 </div>
 
 ---
 
-# Explore My Work
+<div align="center">
 
-<details>
-<summary><b>Frontend Engineering</b></summary>
+## PROFESSIONAL NETWORK / 13
 
-React, React 19, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, responsive layouts, reusable components, routing, forms, state management, performance, and SEO-conscious interfaces.
+</div>
 
-</details>
+# One Professional Identity
 
-<details>
-<summary><b>Backend Engineering</b></summary>
+The public profiles below are intentionally connected so visitors can move between **source code, professional history, portfolio, and projects**.
 
-Node.js, Express.js, Python, REST APIs, MongoDB, Mongoose, MySQL, authentication, authorization, validation, file uploads, scheduling, notifications, and business logic.
+<table>
+<tr>
 
-</details>
+<td width="33%" align="center">
 
-<details>
-<summary><b>AI & Automation</b></summary>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
 
-Gemini API, AI-enabled products, agentic workflows, n8n, MCP, WhatsApp automation, CRM automation, calendar workflows, document automation, and web scraping.
+### GitHub
 
-</details>
+<a href="https://github.com/mabdullahniazi">
+<strong>mabdullahniazi</strong>
+</a>
 
-<details>
-<summary><b>Cybersecurity</b></summary>
+Source Code
+Repositories
+Engineering Work
 
-CEH, Google Cybersecurity, authentication, access control, input validation, privacy analysis, API security, web security, and security-aware application design.
+</td>
 
-</details>
+<td width="33%" align="center">
 
-<details>
-<summary><b>Infrastructure & Deployment</b></summary>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
 
-Ubuntu server deployments, NGINX reverse proxies, Docker, Vercel, environment configuration, backend deployment, and production setup.
+### LinkedIn
 
-</details>
+<a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
+<strong>Muhammad Abdullah Niazi</strong>
+</a>
 
-<details>
-<summary><b>SEO / AEO / GEO</b></summary>
+Experience
+Achievements
+Professional Updates
 
-Technical SEO, metadata, content structure, search visibility, Answer Engine Optimization, Generative Engine Optimization, and performance-oriented implementation.
+</td>
 
-</details>
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" alt="Portfolio">
+
+### Portfolio
+
+<a href="https://abdullahniazi.vercel.app">
+<strong>Abdullah Niazi</strong>
+</a>
+
+Projects
+Case Studies
+Skills
+
+</td>
+
+</tr>
+</table>
+
+### Featured Links
+
+**GitHub Profile** <a href="https://github.com/mabdullahniazi">github.com/mabdullahniazi</a>
+
+**LinkedIn Profile** <a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">linkedin.com/in/muhammad-abdullah-niazi-a94952226</a>
+
+**Portfolio** <a href="https://abdullahniazi.vercel.app">abdullahniazi.vercel.app</a>
+
+**NUML Project** <a href="https://numl.vercel.app">numl.vercel.app</a>
+
+**LoopVerse / SkillSphere** <a href="https://github.com/mabdullahniazi/loopverse">github.com/mabdullahniazi/loopverse</a>
+
+**TermsLens** <a href="https://github.com/mabdullahniazi/kiro">github.com/mabdullahniazi/kiro</a>
 
 ---
 
-# Current Focus
+<div align="center">
+
+## CURRENTLY / 14
+
+</div>
+
+# Currently Exploring
 
 <div align="center">
 
-`Full-Stack Product Engineering`
+`Distributed Systems`
 
-`AI Agent Systems`
-
-`MCP + n8n Automation`
-
-`Cybersecurity`
+`AI Agent Workflows`
 
 `Cloud Infrastructure`
 
-`Distributed Systems`
+`MCP`
+
+`n8n Multi-Agent Automation`
+
+`WhatsApp Business Automation`
+
+`Application Security`
 
 `SEO / AEO / GEO`
 
@@ -819,56 +1402,74 @@ Technical SEO, metadata, content structure, search visibility, Answer Engine Opt
 
 ---
 
-# Let's Connect
-
-I'm open to collaboration around:
-
-`Web Applications`
-
-`SaaS`
-
-`AI Products`
-
-`Automation Systems`
-
-`Cybersecurity`
-
-`Developer Tools`
-
-`SEO / Growth Engineering`
-
-`Startup Products`
-
-`Open Source`
-
 <div align="center">
 
-<a href="mailto:abdullahniaziuni@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Abdullah Niazi">
-</a>
-
-<a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Muhammad Abdullah Niazi">
-</a>
-
-<a href="https://github.com/mabdullahniazi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Muhammad Abdullah Niazi">
-</a>
-
-<a href="https://abdullahniazi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Muhammad Abdullah Niazi Portfolio">
-</a>
+## ENGINEERING PHILOSOPHY / 15
 
 </div>
+
+<details>
+<summary><strong>Build end-to-end</strong></summary>
+
+I prefer understanding the complete system — interface, API, database, automation, infrastructure, security, and deployment.
+
+</details>
+
+<details>
+<summary><strong>Make systems reusable</strong></summary>
+
+Repeated work is often an opportunity for a reusable component, workflow, API, script, or automation.
+
+</details>
+
+<details>
+<summary><strong>Security belongs inside the product</strong></summary>
+
+Authentication, authorization, validation, secrets, privacy, and failure handling should be considered during implementation.
+
+</details>
+
+<details>
+<summary><strong>AI should accelerate engineering</strong></summary>
+
+I use AI to accelerate development while keeping architecture, validation, debugging, and product decisions deliberate.
+
+</details>
+
+<details>
+<summary><strong>Learn through difficult projects</strong></summary>
+
+The projects that force deeper understanding of systems are often the projects that create the most growth.
+
+</details>
 
 ---
 
 <div align="center">
 
-### Build. Automate. Secure. Scale.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Build.;Automate.;Secure.;Scale." alt="Animated closing statement">
 
-**Muhammad Abdullah Niazi**
+<br><br>
 
+<a href="https://github.com/mabdullahniazi">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://linkedin.com/in/muhammad-abdullah-niazi-a94952226">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://abdullahniazi.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="mailto:abdullahniaziuni@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<strong>Muhammad Abdullah Niazi</strong><br>
 Lahore, Pakistan
 
 </div>
